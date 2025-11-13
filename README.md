@@ -2,7 +2,7 @@
 
 **Restore Manifest V2 Extensions in Chrome**
 
-This repository provides a workaround to continue using Manifest V2 browser extensions in Chromium-based browsers (such as Google Chrome, Brave, and Edge) even after Manifest V3 becomes the default. Many extensions—including **uBlock Origin (Legacy MV2)**—still rely on Manifest V2 for full functionality, but Google has begun phasing it out.
+This repository provides a workaround to continue using Manifest V2 browser extensions in Chromium-based browsers (such as Google Chrome, Brave, and Edge) even after Manifest V3 becomes the default. Many extensions, including **uBlock Origin (Legacy MV2)**, still rely on Manifest V2 for full functionality, but Google has begun phasing it out.
 
 This repo documents the process of re-enabling support for Manifest V2 via hidden Chrome flags and manually installing extensions in developer mode. The approach is intended for personal use, testing, and preserving functionality of legacy extensions.
 
